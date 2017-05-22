@@ -1,0 +1,37 @@
+body{
+	background-color: #dddddd;
+}
+#header{
+	float: left;
+	width: 100%;
+	padding-left: 5%;
+	/*padding-top: 20px;*/
+	margin-left: 10%, auto;
+	margin-right: 70%, auto;
+	
+	background-color: #ffffff;
+}
+#name{
+	width: 10%;
+	float: left;
+	background-color: #4aaaa5;
+	font-color: white;
+}
+#about{
+	margin-top: 7px;
+	float: left;
+	margin-left: 50%;
+}
+#portfolio{
+	margin-top: 7px;
+	float: left;
+	margin-left: 5px;
+}
+#contact{
+	margin-top: 7px;
+	float: left;
+	margin-left: 5px;
+}
+#about{
+
+}
